@@ -1,4 +1,4 @@
-# LAIDD
+# LAIDD Lecture Code and Data
 
 <font size=8>
 The python program and data set for virtual screening using public chemical data base.<br>
