@@ -1,0 +1,65 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+ATOM      1  C4  634 X9001      10.096  -4.018 -33.480  1.00 12.80      A       
+ATOM      2  C5  634 X9001       9.809  -2.652 -33.604  1.00 13.93      A       
+ATOM      3  C8  634 X9001       7.879  -3.776 -33.738  1.00 12.77      A       
+ATOM      4  C13 634 X9001      15.547  -6.106 -33.267  1.00 18.87      A       
+ATOM      5  C15 634 X9001      14.731  -6.361 -30.938  1.00 18.01      A       
+ATOM      6  C20 634 X9001      15.603  -6.906 -27.303  1.00 17.48      A       
+ATOM      7  C21 634 X9001      16.440  -6.245 -26.226  1.00 18.05      A       
+ATOM      8  C24 634 X9001      15.130  -2.277 -33.021  1.00 18.65      A       
+ATOM      9  C28 634 X9001      17.568  -2.708 -32.707  1.00 21.42      A       
+ATOM     10  C1  634 X9001      12.002  -2.008 -33.403  1.00 15.57      A       
+ATOM     11  N2  634 X9001      12.373  -3.314 -33.274  1.00 13.47      A       
+ATOM     12  C3  634 X9001      11.453  -4.331 -33.308  1.00 13.41      A       
+ATOM     13  N6  634 X9001      10.700  -1.613 -33.576  1.00 14.15      A       
+ATOM     14  N7  634 X9001       8.459  -2.530 -33.759  1.00 13.16      A       
+ATOM     15  C9  634 X9001       8.866  -4.720 -33.567  1.00 12.86      A       
+ATOM     16  O10 634 X9001      11.856  -5.658 -33.171  1.00 13.63      A       
+ATOM     17  C11 634 X9001      13.159  -5.881 -32.774  1.00 16.20      A       
+ATOM     18  C12 634 X9001      14.225  -5.871 -33.720  1.00 17.34      A       
+ATOM     19  C14 634 X9001      15.806  -6.351 -31.887  1.00 18.52      A       
+ATOM     20  C16 634 X9001      13.409  -6.124 -31.396  1.00 16.50      A       
+ATOM     21  N17 634 X9001      14.862  -6.605 -29.542  1.00 16.35      A       
+ATOM     22  C18 634 X9001      15.991  -6.536 -28.733  1.00 18.67      A       
+ATOM     23  O19 634 X9001      17.138  -6.238 -29.068  1.00 21.24      A       
+ATOM     24  N22 634 X9001      13.006  -1.007 -33.357  1.00 16.25      A       
+ATOM     25  C23 634 X9001      14.362  -1.140 -33.191  1.00 17.60      A       
+ATOM     26  N25 634 X9001      16.415  -1.863 -32.901  1.00 20.40      A       
+ATOM     27  N26 634 X9001      16.557  -0.530 -32.978  1.00 20.72      A       
+ATOM     28  C27 634 X9001      15.304  -0.092 -33.155  1.00 18.59      A       
+CONECT    1    2   12   15
+CONECT    2    1   13   14
+CONECT    3   14   15
+CONECT    4   18   19
+CONECT    5   19   20   21
+CONECT    6    7   22
+CONECT    7    6
+CONECT    8   25   26
+CONECT    9   26
+CONECT   10   11   13   24
+CONECT   11   10   12
+CONECT   12    1   11   16
+CONECT   13    2   10
+CONECT   14    2    3
+CONECT   15    1    3
+CONECT   16   12   17
+CONECT   17   16   18   20
+CONECT   18    4   17
+CONECT   19    4    5
+CONECT   20    5   17
+CONECT   21    5   22
+CONECT   22    6   21   23
+CONECT   23   22
+CONECT   24   10   25
+CONECT   25    8   24   28
+CONECT   26    8    9   27
+CONECT   27   26   28
+CONECT   28   25   27
+END
